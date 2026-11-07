@@ -13,7 +13,7 @@ Customize Control Center on jailbroken iOS 26.
 
 ## Downloads
 
-[RootHide .deb](https://github.com/sahinkaa/CCFlex/releases/download/v1.0.0/CCFlex_1.0.0_RootHide.deb) · [Rootless .deb](https://github.com/sahinkaa/CCFlex/releases/download/v1.0.0/CCFlex_1.0.0_Rootless.deb)
+[RootHide .deb](https://github.com/sahinkaa/CCFlex/releases/download/v1.0.0/com.sahinkaa.ccflex_1.0.0_iphoneos-arm64e.deb) · [Rootless .deb](https://github.com/sahinkaa/CCFlex/releases/download/v1.0.0/com.sahinkaa.ccflex_1.0.0_iphoneos-arm64.deb)
 
 Remove any older Clean Control Center 26 package, install the build for your jailbreak and respring. Configure the tweak in **Settings → CCFlex**.
 
